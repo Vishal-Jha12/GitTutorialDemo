@@ -1,0 +1,4 @@
+error.log
+static/tex.txt
+
+// *.log for ignore all .log extention files
